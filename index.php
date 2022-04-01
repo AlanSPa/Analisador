@@ -8,6 +8,7 @@
 
     </style>
     <body link="#87CEFA" alink="#87CEFA" vlink="#87CEFA">
+        <div align="center">
         
         <font face="Verdana">
         <h3>Informe a Pagina a ser analisada:</h3>
@@ -56,5 +57,6 @@
 
         ?>
     </font>
+    </div>
     </body>
 </html>
